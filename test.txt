@@ -8,3 +8,4 @@ filehippo.net
 filehippo.net/
 zagent2023.yg5sjx5kzy.com
 invpol.cn
+*.filehippo.com

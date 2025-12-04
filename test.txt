@@ -1,2 +1,4 @@
 www.softonic.com
 filehippo.com
+*filehippo.com
+*filehippo.net

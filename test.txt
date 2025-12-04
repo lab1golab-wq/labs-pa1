@@ -4,3 +4,5 @@ filehippo.com
 *filehippo.net
 www.softtonic.com
 filehippo.net
+*.filehippo.net
+filehippo.net/
